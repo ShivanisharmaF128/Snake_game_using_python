@@ -1,7 +1,7 @@
 # 🐍 Snake Game Using Python (Pygame)
 A classic Snake Game built using Python and the Pygame library. Simple, addictive, and fun — this project is perfect for Python beginners to learn about game development, logic building, and using graphics libraries.
 
-![snake game]()
+![snake game](https://github.com/ShivanisharmaF128/Snake_game_using_python/blob/main/snake%20game.png)
 
 ---
 
